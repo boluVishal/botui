@@ -1,12 +1,10 @@
-![logo](logo.svg)
+# BotUI
 
-[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/botui) [![npm](https://img.shields.io/npm/v/botui.svg?style=flat-square)](https://www.npmjs.com/package/botui) [![npm](https://img.shields.io/npm/dm/botui.svg?style=flat-square)](https://www.npmjs.com/package/botui) [![newsletter](newsletter.svg)](https://tinyletter.com/moinhq)
-[![Backers on Open Collective](https://opencollective.com/botui/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/botui/sponsors/badge.svg)](#sponsors)
+> A JavaScript framework for building conversational UIs — chat-style interfaces driven by promises.
 
-> A JavaScript framework to create conversational UIs.
+Fork of [moinism/botui](https://github.com/moinism/botui). Original project by Moin Uddin.
 
-
-[Main Site](https://botui.org) - [Read Docs](https://docs.botui.org) - [Examples](https://github.com/moinism/botui-examples)
+[Docs](https://docs.botui.org) · [Examples](https://github.com/moinism/botui-examples) · [npm](https://www.npmjs.com/package/botui)
 
 ## Showcase 🎇✨
 
